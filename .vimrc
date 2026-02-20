@@ -1,6 +1,7 @@
 call plug#begin()
 
-Plug 'krasjet/auto.pairs'
+" Plug 'krasjet/auto.pairs'
+Plug 'jiangmiao/auto-pairs'
 Plug 'rust-lang/rust.vim'
 Plug 'vim-airline/vim-airline'
 Plug 'kien/ctrlp.vim'
